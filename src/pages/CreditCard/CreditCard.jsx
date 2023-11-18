@@ -1,6 +1,6 @@
 const CreditCard = () => {
   return (
-    <div className="credit-card-inputs">
+    <div className="credit-card">
       <input />
       <input />
       <input />

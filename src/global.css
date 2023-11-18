@@ -9,7 +9,24 @@ html {
 }
 
 .container {
-  max-width: 26rem;
+  max-width: 23rem;
   margin-right: auto;
   margin-left: auto;
+}
+
+.credit-card {
+  border-radius: 15px;
+  background-color: rgb(212, 212, 212);
+  padding-top: 150px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 60px;
+  height: 30px;
+  margin: 0 5px;
+  text-align: center;
 }
